@@ -22,7 +22,7 @@ https://github.com/qmsdh/AI-Chat/
 
 2. 建议使用美国节点访问。（亲测日本无法正常获取API Key，可能对IP所在地区有限制）
 
-3. 打开Google AI Studio 申请api的网址：https://makersuite.google.com/app/apikey。当然你也可以打开Gemini的首页 http://ai.google.dev ，并点击 Get API key in Google AI Studio 按钮。你需要先同意使用条款才能继续使用。
+3. 打开Google AI Studio 申请api的网址：https://makersuite.google.com/app/apikey 。当然你也可以打开Gemini的首页 http://ai.google.dev  ，并点击 Get API key in Google AI Studio 按钮。你需要先同意使用条款才能继续使用。
 
 4. 点击左边菜单里的 Get API key，然后在右边点击 Create API key in new project。
 
